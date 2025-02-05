@@ -3,7 +3,7 @@ Game Project Idea
 
 Project Inveline.
 
-QDinevitable Group. 
+QDinevitable Group.   
 QDinev. Laboratory.
 
 
