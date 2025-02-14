@@ -50,11 +50,11 @@ Store
 Storage area   
 Underground  
 
-Ander Zombie 
-Lander Zombie  
-Zombie Pole 
-Stiff Grousomer  
-The Overgrown   
+Ander Zombie   
+Lander Zombie   
+Zombie Pole   
+Stiff Grousomer    
+The Overgrown    
 Policeman zombie  
 Military zombie  
 Infected tourist
