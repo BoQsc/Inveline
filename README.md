@@ -52,6 +52,8 @@ Underground
 
 Storeliner  
 Ander Zombie   
+Rikki Zombie  
+Arcker Zombie
 En Zombie   
 Zombie Pole   
 Stiff Grousomer    
@@ -60,4 +62,4 @@ Policeman zombie
 Military zombie  
 Infected tourist
 Polutioneer  
-Darknarco  
+  
