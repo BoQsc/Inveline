@@ -38,7 +38,8 @@ Torvalley
 Police station   
 Warehouse  
 Train Station  
-Bakery  
+Bakery 
+Training Area
 Outpost  
 Club  
 Store    
