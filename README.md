@@ -58,3 +58,4 @@ The Overgrown
 Policeman zombie  
 Military zombie  
 Infected tourist
+Polutioneer  
