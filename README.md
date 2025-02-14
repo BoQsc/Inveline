@@ -51,7 +51,7 @@ Storage area
 Underground  
 
 Ander Zombie   
-Lander Zombie   
+En Zombie   
 Zombie Pole   
 Stiff Grousomer    
 The Overgrown    
