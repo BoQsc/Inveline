@@ -56,4 +56,4 @@ Stiff Grousomer
 The Overgrown   
 Policeman zombie  
 Military zombie  
-
+Infected tourist
