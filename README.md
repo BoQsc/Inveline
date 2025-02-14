@@ -29,7 +29,7 @@ Kentaract
 Kentaract Outpost  
 Kentaract Complex  
 
-Merphfol Unique
+Merphfol Antidote
 
 Y Serum
 Revencium
