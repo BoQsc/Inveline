@@ -21,3 +21,5 @@ Saiopses agentic
 Research Center Medical Nanorobots Nanoresearch
 
 Nightright mutation
+
+Kentaract Implosive
