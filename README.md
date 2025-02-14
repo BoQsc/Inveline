@@ -57,8 +57,8 @@ Arcker Zombie
 Zombie Tragger
 En Zombie   
 Zombie Pole   
-Stiff Grousomer     
-The Tracker  
+Stiff Grousomer      
+Tracker    
 The Overgrown    
 Policeman zombie  
 Military zombie  
