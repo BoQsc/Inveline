@@ -28,7 +28,7 @@ Kentaract Implosive
 Kentaract Outpost  
 Kentaract Complex  
 
-TrMerphfol Unique
+Merphfol Unique
 
 Y Serum
 Revencium
