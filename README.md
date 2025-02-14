@@ -14,6 +14,7 @@ Uncomformatives.
 Police, Military  
 Taskforce  
 Worker  
+Statesman  
 
 Ground zero protein.  
 City outbreak.  
