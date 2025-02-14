@@ -39,9 +39,9 @@ Police station
 Warehouse  
 Train Station  
 Bakery  
-Outpost
-Club
-Store  
+Outpost  
+Club  
+Store    
 Storage area  
 
 
