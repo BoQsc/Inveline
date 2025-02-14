@@ -54,6 +54,7 @@ Storeliner
 Ander Zombie   
 Rikki Zombie  
 Arcker Zombie
+Dilidan Zombie
 Zombie Tragger
 En Zombie   
 Zombie Pole   
