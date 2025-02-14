@@ -50,9 +50,10 @@ Store
 Storage area   
 Underground  
 
-Ander Zombie   
+Ander Zombie    
+Lander Zombie  
 Stiff Grousomer  
-Overgrown Lander
-Policeman zombie
-Military zombie
+The Overgrown   
+Policeman zombie  
+Military zombie  
 
