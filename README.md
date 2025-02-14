@@ -50,5 +50,6 @@ Store
 Storage area   
 Underground  
 
-Ander Zombie
-Stiff Grousomer
+Ander Zombie   
+Stiff Grousomer  
+Lander
