@@ -52,4 +52,7 @@ Underground
 
 Ander Zombie   
 Stiff Grousomer  
-Lander
+Overgrown Lander
+Policeman zombie
+Military zombie
+
