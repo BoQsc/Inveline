@@ -15,6 +15,7 @@ Police, Military
 Taskforce  
 Worker  
 Statesman  
+Enforcers  
 
 Ground zero protein.  
 City outbreak.  
