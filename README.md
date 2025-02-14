@@ -3,7 +3,7 @@ Game Project Idea
 
 Project Inveline.
 
-QDinevitable Group.   
+QD Group.   
 QD Laboratory infection research.
 
 
