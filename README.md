@@ -50,6 +50,7 @@ Store
 Storage area   
 Underground  
 
+Storeliner  
 Ander Zombie   
 En Zombie   
 Zombie Pole   
