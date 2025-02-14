@@ -32,7 +32,16 @@ Y Serum
 Revencium
 Quotem
 Rourainem
-
-City of Tourenvalley  
+ 
 Gourner  
-Torvalley  
+Torvalley   
+Police station   
+Warehouse  
+Train Station  
+Bakery  
+Outpost
+Club
+Store  
+Storage area  
+
+
