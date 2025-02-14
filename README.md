@@ -11,7 +11,9 @@ QD Laboratory infection research.
 Linr (Lainar) Rescue Group.  
 Uncomformatives.  
 
-Police, Military 
+Police, Military  
+Taskforce  
+Worker  
 
 Ground zero protein.  
 City outbreak.  
