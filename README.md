@@ -18,5 +18,4 @@ City outbreak.
 
 Report  
 Saiopses agentic  
-Research Center Medical Nanorobots
-Nanoresearch
+Research Center Medical Nanorobots Nanoresearch
