@@ -45,6 +45,6 @@ Training Area
 Outpost  
 Club  
 Store    
-Storage area  
-
+Storage area   
+Underground  
 
