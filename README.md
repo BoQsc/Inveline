@@ -60,3 +60,4 @@ Policeman zombie
 Military zombie  
 Infected tourist
 Polutioneer  
+Darknarco  
