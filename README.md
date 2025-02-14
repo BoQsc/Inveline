@@ -22,3 +22,5 @@ Research Center Medical Nanorobots Nanoresearch
 
 Nightright Mutation  
 Kentaract Implosive
+Kentaract Outpost
+Kentaract Complex
