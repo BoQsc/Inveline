@@ -54,6 +54,7 @@ Storeliner
 Ander Zombie   
 Rikki Zombie  
 Arcker Zombie
+Zombie Tragger
 En Zombie   
 Zombie Pole   
 Stiff Grousomer    
