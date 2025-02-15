@@ -55,7 +55,7 @@ Ander Zombie
 Rikki Zombie  
 Arcker Zombie
 Dilidan Zombie
-Zombie Tragger
+Tragger Zombie
 En Zombie   
 Zombie Pole   
 Stiff Grousomer      
