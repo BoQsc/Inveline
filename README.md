@@ -50,8 +50,7 @@ Store
 Storage area   
 Underground  
 
-Bloated 
-Lined Joe  
+Bloated Joe  
 Ander Zombie   
 Rikki Zombie  
 Arcker Zombie
