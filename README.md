@@ -65,6 +65,8 @@ Policeman zombie
 Military zombie  
 Infected tourist
 Polutioneer  
-  
+
+
+Inrotein
 ____
 0. Inveline, in the line.
