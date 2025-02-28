@@ -38,7 +38,7 @@ Revencium
 Quotem
 Rourainem
  
-Gourner  
+Redwick ~~Gourner~~  
 Torvalley   
 Police station   
 Warehouse  
