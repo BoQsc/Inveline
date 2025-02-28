@@ -4,8 +4,6 @@ Game Project Idea
 Project Inveline.  
 Ground_Inveline  
 
-Inveline, in the line.
-
 QD Group.   
 QD Laboratory infection research.
 
@@ -61,9 +59,12 @@ En Zombie
 Zombie Pole   
 Stiff Grousomer      
 Tracker    
+
 The Overgrown    
 Policeman zombie  
 Military zombie  
 Infected tourist
 Polutioneer  
   
+____
+0. Inveline, in the line.
