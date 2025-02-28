@@ -1,4 +1,4 @@
-# ☣️ Inveline
+# ☣️ Inured
 Game Project Idea
 
 Project Inveline.  
