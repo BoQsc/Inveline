@@ -84,7 +84,7 @@ LaughterZombie
 Sturdy Zombie (Generic, General)  
 Staff Zombie  
 Basement Dweller   
-Underground Zombie  
-
+Underground Zombie   
+Distill Zombie 
 ____
 0. Inveline, in the line.
