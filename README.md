@@ -1,4 +1,4 @@
-# ☣️ linInveline
+# ☣️ Linvenline
 Game Project Idea
 
 Project Inveline.  
