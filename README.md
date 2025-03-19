@@ -75,6 +75,7 @@ Inrotein
 Inoured
 Hurdinured
 
+Targent Zombie  
 LaughterZombie
 
 ____
