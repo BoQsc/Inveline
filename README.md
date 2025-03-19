@@ -83,7 +83,8 @@ Targent Zombie
 LaughterZombie   
 Sturdy Zombie (Generic, General)  
 Staff Zombie  
-Basement Dweller  
+Basement Dweller   
+Underground Zombie  
 
 ____
 0. Inveline, in the line.
