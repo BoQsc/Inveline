@@ -29,6 +29,8 @@ Kentaract
 Kentaract Outpost  
 Kentaract Complex  
 
+Gravestone Local.
+
 Merphfol Antidote
 
 Y Serum
