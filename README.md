@@ -78,6 +78,7 @@ Hurdinured
 Targent Zombie  
 LaughterZombie   
 Sturdy Zombie (Generic, General)  
+Staff Zombie  
 
 ____
 0. Inveline, in the line.
