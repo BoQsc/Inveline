@@ -86,5 +86,7 @@ Staff Zombie
 Basement Dweller   
 Underground Zombie   
 Distill Zombie 
+Lurker  
+
 ____
 0. Inveline, in the line.
