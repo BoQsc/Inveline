@@ -9,6 +9,7 @@ Ground_Inveline.
 TL National Formation.  
 TourgenLarven  
 
+
 QD Group.   
 QD Laboratory infection research.
 
@@ -82,6 +83,7 @@ Targent Zombie
 LaughterZombie   
 Sturdy Zombie (Generic, General)  
 Staff Zombie  
+Basement Dweller  
 
 ____
 0. Inveline, in the line.
