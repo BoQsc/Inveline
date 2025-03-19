@@ -76,7 +76,8 @@ Inoured
 Hurdinured
 
 Targent Zombie  
-LaughterZombie
+LaughterZombie   
+Sturdy Zombie  
 
 ____
 0. Inveline, in the line.
