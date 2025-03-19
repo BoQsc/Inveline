@@ -10,7 +10,7 @@ QD Group.
 QD Laboratory infection research.
 
 Linr (Lainar) Rescue Group.  
-Uncomformatives.  
+~~Uncomformatives.~~  
 
 Police, Military  
 Taskforce  
